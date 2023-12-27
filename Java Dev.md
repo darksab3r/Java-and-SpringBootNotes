@@ -2,7 +2,7 @@
 
 ## Diagrams 
 
-### 1. How Retrofit and GSON work together<img width="1046" alt="retrofit-gson-flow" src="https://github.com/darksab3r/Java-and-SpringBootNotes/assets/80017440/77823792-5092-4eee-81b9-b15b73edbded">
+### 1. How Retrofit and GSON work together
 
 <img width="1046" alt="retrofit-gson-flow" src="https://github.com/darksab3r/Java-and-SpringBootNotes/assets/80017440/a2b91860-7096-4241-b85b-a99e4c2a858d">
 
